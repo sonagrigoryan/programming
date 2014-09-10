@@ -3,7 +3,7 @@ package algorithm;
 import javax.activity.InvalidActivityException;
 
 /**
- * Execution time class allows to measure the execution time of programs in nanoseconds.
+ * ExecutionTime class allows to measure the execution time of programs in nanoseconds.
  * @author sonagrigoryan
  *
  */
