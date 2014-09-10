@@ -1,11 +1,12 @@
 package algorithm;
+
 import javax.activity.InvalidActivityException;
+
 /**
- * Allows to measure the execution time of programs in nanoseconds.
+ * ExecutionTime class allows to measure the execution time of programs in nanoseconds.
  * @author sonagrigoryan
  *
  */
-
 public class ExecutionTime {
 	private long startTime = 0;
 	private long stopTime = 0;
