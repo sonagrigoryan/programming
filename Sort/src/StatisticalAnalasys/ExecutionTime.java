@@ -1,4 +1,4 @@
-package algorithm;
+package StatisticalAnalasys;
 
 import javax.activity.InvalidActivityException;
 
