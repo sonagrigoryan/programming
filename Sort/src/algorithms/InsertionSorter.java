@@ -1,5 +1,7 @@
 package algorithms;
 
+import utilities.SortUtilities;
+
 public class InsertionSorter implements Sorter {
 	/**
 	 * A Method that takes as an argument an array of Comparable type of values and sorts

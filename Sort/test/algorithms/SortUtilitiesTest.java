@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
+import utilities.SortUtilities;
+
 
 
 public class SortUtilitiesTest {

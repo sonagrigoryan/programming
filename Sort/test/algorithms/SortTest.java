@@ -5,6 +5,8 @@ import static org.junit.Assert.*;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import utilities.SortUtilities;
+
 @Ignore("base class; not for actual execution.")
 public class SortTest {
 	private Sorter sorter;

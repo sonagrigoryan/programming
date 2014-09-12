@@ -1,6 +1,6 @@
 package algorithms;
 
-public class ShellSort implements Sorter {
+public class ShellSorter implements Sorter {
 
 	@Override
 	public void sort(Comparable[] arr) {

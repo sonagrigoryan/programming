@@ -1,4 +1,4 @@
-package algorithms;
+package utilities;
 
 public final class SortUtilities {
 	/**
